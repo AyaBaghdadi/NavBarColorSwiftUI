@@ -1,8 +1,5 @@
 //
-//  ContentView.swift
-//  nav
-//
-//  Created by OSX on 01/11/2021.
+//  Created by Technicalisto.
 //
 
 import SwiftUI
